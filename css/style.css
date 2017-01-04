@@ -2,6 +2,7 @@ body {
     background: #f4f4f4;
 }
 
+/* Navbar*/
 .navbar {
     min-height: 33px !important;
     margin-bottom: 0;
@@ -12,7 +13,7 @@ body {
     padding-bottom: 0 !important;
     height: 33px;
 }
-/* codigo gerado automaticamente */
+/* este codigo foi gerado automaticamente */
 .navbar-default {
   background-color: #ee186d;
   border-color: #b60249;
@@ -67,12 +68,15 @@ body {
   color: #e8c2d1;
 }
 
-/* principal cor do site */
+/* Custom */
 .main-color-bg {
     background-color: #ee186d;
     border-color: #b60249;
     color: #ffffff;
 }
+
+/* Header */
+
 
 
 
