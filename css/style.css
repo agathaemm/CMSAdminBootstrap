@@ -70,13 +70,41 @@ body {
 
 /* Custom */
 .main-color-bg {
-    background-color: #ee186d;
-    border-color: #b60249;
-    color: #ffffff;
+    background-color: #ee186d !important;
+    border-color: #b60249 !important;
+    color: #ffffff !important;
 }
 
 /* Header */
+#header {
+    background: #333333;
+    color: #ffffff;
+    padding-bottom: 10px;
+    margin-bottom: 15px;
+}
+#header .create {
+    padding-top: 20px;
+}
 
+/* Breadcrumb */
+.breadcrumb {
+    background: #cccccc;
+    color: #333333;
+}
+.breadcrumb a {
+    color: #333333;
+}
+
+/* Progress bar */
+.progress-bar {
+    background: #333333;
+    color: #ffffff;
+}
+
+/* Overview */
+.dash-box {
+    text-align: center;
+}
 
 
 
